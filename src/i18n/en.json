@@ -1,0 +1,16 @@
+{
+  "pageNotFound": "page not found",
+  "serviceUnavailable": "service is unavailable",
+  "runCoverCard.name": "name",
+  "runCoverCard.speed": "speed",
+  "runCoverCard.beginDate": "begin",
+  "runCoverCard.duration": "duration",
+  "runCoverCard.distance": "distance",
+  "runCoverCard.pace": "pace",
+  "runCoverCard.pulse": "pulse",
+  "unit.km": "km",
+  "unit.kmPerHour": "km/h",
+  "unit.minPerKm": "min/km",
+  "unit.bpm": "bpm",
+  "noData": "no data"
+}

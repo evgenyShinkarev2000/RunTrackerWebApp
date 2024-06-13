@@ -1,0 +1,16 @@
+{
+  "pageNotFound": "страница не найдена",
+  "serviceUnavailable": "сервис недоступен",
+  "runCoverCard.name": "название",
+  "runCoverCard.speed": "скорость",
+  "runCoverCard.beginDate": "начало",
+  "runCoverCard.duration": "длительность",
+  "runCoverCard.distance": "дистанция",
+  "runCoverCard.pace": "темп",
+  "runCoverCard.pulse": "пульс",
+  "unit.km": "км",
+  "unit.kmPerHour": "км/ч",
+  "unit.minPerKm": "мин/км",
+  "unit.bpm": "уд/мин",
+  "noData": "нет данных"
+}
